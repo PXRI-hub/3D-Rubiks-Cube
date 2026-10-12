@@ -1,4 +1,4 @@
-# 3D-Rubics-Cube
+# 3D-Rubiks-Cube
 
 An interactive 3D cube that can be controlled using hand gestures through your webcam.
 
