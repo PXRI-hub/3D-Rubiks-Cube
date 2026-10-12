@@ -2,6 +2,8 @@
 
 An interactive 3D cube that can be controlled using hand gestures through your webcam.
 
+<img width="1510" height="851" alt="cube" src="https://github.com/user-attachments/assets/d461faa7-a8d4-438c-8782-1a29503dfb51" />
+
 ## About the Project
 
 I wanted to experiment with combining 3D graphics and hand tracking to create something that could be controlled without a mouse or keyboard.
